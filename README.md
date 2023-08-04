@@ -2,7 +2,7 @@
 
 Meu nome é Vitor Gabriel
 
-- Estou estudando no Alura;
+- Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +12,4 @@ Meu nome é Vitor Gabriel
   
 @primo.gomes
 
-!
-https://media.tenor.com/ZMe398J4PoEAAAAC/ok-okay.gif
+![](https://media.tenor.com/ZMe398J4PoEAAAAC/ok-okay.gif)
